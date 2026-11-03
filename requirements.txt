@@ -1,0 +1,8 @@
+tensorflow==2.15.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+matplotlib==3.9.2
+pillow==11.0.0
+gradio==5.5.0
+h5py==3.12.1
+scipy==1.14.1
